@@ -12,7 +12,7 @@ int main()
 		printf("\nDas Produkt von %d und %d ist %d\n\n",a,b,c);
 	}
 	else{
-		printf("\nUnerwartete Werte sind eingegeben!\n\n");	
+		printf("\nUnerwartete Werte sind eingegeben! Bitte geben Sie Werte von Typ int!\n\n");	
 	}
 }
 
