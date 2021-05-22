@@ -1,7 +1,7 @@
-PROGRAM = vorlesung
+PROGRAM = hs_2
 
-SOURCES.c = vorlesung.c
-SOURCE.h = vorlesung.h
+SOURCES.c = hs_2.c
+SOURCE.h = hs_2.h
 
 SOURCES = \
 	  $(SOURCES.h) \
