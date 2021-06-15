@@ -1,7 +1,7 @@
-PROGRAM = hs_11
+PROGRAM = ausgabe
 
-SOURCES.c = hs_11.c
-SOURCE.h = hs_11.h
+SOURCES.c = ausgabe.c
+SOURCE.h = ausgabe.h
 
 SOURCES = \
 	  $(SOURCES.h) \
